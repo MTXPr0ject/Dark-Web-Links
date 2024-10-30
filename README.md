@@ -2,7 +2,9 @@
 
 ## 📚 Contents
  Resource Guides: Comprehensive guides on darknet frameworks, terminologies, and protocols.
+ 
  Tools and Techniques: Information on commonly used tools within darknet research, along with best practices for secure and responsible exploration.
+ 
  Security Awareness: Insights into cybersecurity, privacy, and protection measures relevant to both darknet and surface web.
 
 ## ⚠️ Disclaimer
