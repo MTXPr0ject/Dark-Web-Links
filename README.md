@@ -1,3 +1,17 @@
+Welcome to this collection of darknet resources, curated exclusively for educational and informational purposes. This repository serves as a knowledge hub for individuals interested in understanding the structure, functionalities, and applications of the darknet. Please note that all material provided here is aimed at promoting awareness, responsible research, and ethical use of information.
+
+📚 Contents
+Resource Guides: Comprehensive guides on darknet frameworks, terminologies, and protocols.
+Tools and Techniques: Information on commonly used tools within darknet research, along with best practices for secure and responsible exploration.
+Security Awareness: Insights into cybersecurity, privacy, and protection measures relevant to both darknet and surface web.
+⚠️ Disclaimer
+All content in this repository is published solely for educational use and is intended to promote ethical research and knowledge. Any unauthorized use of this information for illegal activities is strictly discouraged. This repository and its contributors are not liable for any misuse of the provided information.
+
+
+
+
+
+
 
 ### Other collection links:
 - [Darknet Links - DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
